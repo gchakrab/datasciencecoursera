@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a repo for data science course of coursera. This is a markdown file.
+This is a repo for data science course of coursera. 
